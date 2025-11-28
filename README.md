@@ -13,10 +13,7 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  helplane_flutter:
-    git:
-      url: https://github.com/intigratech/helplane-flutter.git
-      ref: TAG  # Replace TAG with version from https://github.com/intigratech/helplane-flutter/tags
+  helplane_flutter: ^1.0.0
 ```
 
 Then run:
